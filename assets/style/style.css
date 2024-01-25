@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Poppins:wght@400;500;600;700;800&display=swap');
+.Poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.Inter{
+    font-family: 'Inter', sans-serif;
+}
+.bg2{
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, rgba(111, 165, 255, 0.15) 100%);
+}
+.\!outline-none {
+    outline: 2px solid transparent !important;
+    outline-offset: 2px !important;
+    margin-top: 20px;
+}
+.text-gray-500 {
+    --tw-text-opacity: 1;
+    color: rgb(107 114 128/var(--tw-text-opacity));
+    border-radius: 12px;
+    padding: 24px 32px;
+}
+.lo{
+    background: linear-gradient(to top, rgba(215,230,255,1), white);
+    height: 40px;
+}
+.bg111 {
+    background: linear-gradient(180deg, rgba(111, 165, 255, 0.15) 0%, rgba(217, 217, 217, 0.00) 100%), #FFF;
+  }
+  
